@@ -1,8 +1,6 @@
 # AI Student Analysis: Impact on Academic Performance
 
-[![Streamlit App](https://aistudentanalysis-crpctfpcyq3xtyatqugrkx.streamlit.app/)
-
-https://aistudentanalysis-crpctfpcyq3xtyatqugrkx.streamlit.app/
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://aistudentanalysis-crpctfpcyq3xtyatqugrkx.streamlit.app/)
 
 ## Overview
 This project, developed by Sigourney Reipsch, explores the impact of Generative AI tools on the academic performance of college students. Built with **Python**, **Streamlit**, and **Scikit-Learn**, it provides an interactive web application that visualizes data trends and uses a K-Nearest Neighbors (KNN) Machine Learning model to predict whether a student's grades will improve based on their AI usage habits.
